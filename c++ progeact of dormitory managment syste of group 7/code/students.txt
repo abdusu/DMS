@@ -1,0 +1,3 @@
+alemu 11 21 male is block1 room1
+ass 55 23 male cs block11 room1
+wee 66 24 male ss block11 room1
